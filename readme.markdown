@@ -4,7 +4,7 @@ To install the sugar just open terminal and type:
 
     cd ~/Library/Application Support/Espresso/Sugars
     git clone git://github.com/hawx/Sass.sugar.git
-    
+
 
 ## SASS Settings
 
